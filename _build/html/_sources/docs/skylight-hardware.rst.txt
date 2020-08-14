@@ -1,0 +1,44 @@
+.. MERCURY HPC Administrator's Guide documentation master file, created by
+   sphinx-quickstart on Wed Aug 12 12:09:55 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Skylight Hardware
+=================
+
+Skylight was aqcuired in 2017 from `Advanced Clustering Technologies <https://www.advancedclustering.com/>`_
+(ACT) and is hosted at the Clemson University's data center:
+
+    | Information Technology Center
+    | 340 Computer Court
+    | Anderson, SC 29625
+
+The main contacts at the Clemson data center are:
+
+    | NOC - noc@clemson.edu
+    | Jay Harris - jayh@clemson.edu
+
+A diagram of Skylight's hardware
+configuration is presented below. The numbers on the left side of the cluster identify slots. For
+each node, the node name is given first, followed by the processors, memory, and hard disk space.
+Slots 1U - 37U house nodes while slots 45U - 48U house network switches.
+
+
+ .. figure:: hardware-skylight.jpeg
+    :scale: 50 %
+    :alt: Skylight hardware configuration
+
+    Skylight hardware configuration.
+
+To physically access Skylight, contact the NOC to schedule a visit
+to the data center. Once at the facility, the rack will be unlocked by Clemson data center staff.
+
+Skylight Networking
+-------------------
+
+Skylight is connected to the rest of the world through C-Light Networking. The main contacts for
+C-Light networking matters are:
+
+    | Brian Miller - bkmille@clemson.edu (noc@clemson.edu)
+    | Larry Billado - larryb@clemson.edu
+    | Wallace Chase - wchase@clemson.edu
