@@ -14,7 +14,7 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Mercury HPC Administrator's Guide'
+project = "Mercury HPC Administrator's Guide"
 copyright = '2020, Tuguldur T. Odabdrakh'
 release = '0.1.1'
 extensions = ['recommonmark','sphinxcontrib.fulltoc']
