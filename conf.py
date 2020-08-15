@@ -16,7 +16,9 @@
 
 project = "Mercury HPC Administrator's Guide"
 copyright = '2020, Tuguldur T. Odabdrakh'
+author = 'Tuguldur T. Odbadrakh'
 release = '0.1.1'
+
 extensions = ['recommonmark','sphinxcontrib.fulltoc']
 templates_path = ['_templates']
 html_theme = ['sphinxdoc']
