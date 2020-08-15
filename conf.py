@@ -21,7 +21,7 @@ release = '0.1.1'
 
 extensions = ['recommonmark','sphinxcontrib.fulltoc']
 templates_path = ['_templates']
-html_theme = 'sphinxdoc'
+html_theme = 'bootstrap-astropy'
 html_theme_options = {
     'sticky_navigation': True
 }
