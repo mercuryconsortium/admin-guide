@@ -1,3 +1,4 @@
 sphinxcontrib-fulltoc
 sphinx
 docutils
+astropy-sphinx-theme
