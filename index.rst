@@ -17,3 +17,4 @@ maintenance of the two HPCs: Marcy and Skylight.
 
    docs/hardware
    docs/software
+   docs/contacts 
