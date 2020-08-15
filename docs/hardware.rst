@@ -71,3 +71,7 @@ C-Light networking matters are:
     | Brian Miller - bkmille@clemson.edu (noc@clemson.edu)
     | Larry Billado - larryb@clemson.edu
     | Wallace Chase - wchase@clemson.edu
+
+.. toctree::
+   :maxdepth: 4
+   :caption: Contents

@@ -9,7 +9,7 @@ Directories
 -----------
 Each user with username ``$USER`` under the group ``$GROUP`` gets a home directory
 located in ``/home/$USER`` and a scratch directory in ``/scratch/$GROUP/$USER``.
-Programs are installed in ``/usr/local/Dist`` and their corresponding 
+Programs are installed in ``/usr/local/Dist`` and their corresponding
 `module files <https://modules.readthedocs.io/en/latest/modulefile.html>`_
 are located in ``/usr/local/Modules/3.2.0/modulefiles`` on Marcy and
 ``/usr/local/Modules/modulefiles`` on Skylight. Custom system-wide scripts are
@@ -46,3 +46,7 @@ general guideline.
 
 After these steps, the new program should be listed as an available module. This can
 be checked using the command ``module avail``.
+
+.. toctree::
+   :maxdepth: 4
+   :caption: Contents
