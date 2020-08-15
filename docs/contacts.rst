@@ -4,18 +4,11 @@ Contacts
 Important HPC-related contacts are listed below.
 
 Marcy Hosting
-    Dexter Caldwell
-        Network sysadmin, datacenter manager
-        dexter.caldwell@furman.edu
+    Dexter Caldwell - Network sysadmin, datacenter manager: dexter.caldwell_at_furman.edu
 
 Skylight Hosting
-    Jay Harris
-        Director
-        jayh@clemson.edu
-
-    Brian Miller
-        NOC
-        noc@clemson.edu
+    Jay Harris - Director: jayh_at_clemson.edu
+    Brian Miller - NOC: noc_at_clemson.edu
 
 
 .. toctree::
